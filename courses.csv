@@ -1,0 +1,9 @@
+course_id,course_name,department,difficulty,interest_tags
+1,Data Structures and Algorithms,Computer Science,Medium,Data Science, Algorithms
+2,Web Development,Software Engineering,Easy,Web Development, Programming
+3,Machine Learning,Computer Science,High,Data Science, ML, AI
+4,Database Management Systems,Computer Science,Medium,Data Science, Databases
+5,Cloud Computing,Computer Science,High,Web Development, Cloud, Networking
+6,Software Engineering,Software Engineering,Medium,Data Science, Software Design
+7,Artificial Intelligence,Computer Science,High,Data Science, AI, ML
+8,Digital Marketing,Management,Low,Web Development, Marketing, Business
